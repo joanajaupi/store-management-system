@@ -1,0 +1,6 @@
+To access the software you can access through:
+Default >>> username: admin password: admin 
+ or: 
+Username: cashier1 password: cashier123
+Username: cashier2 password: cashier123
+Username: manager1 password: manager123
