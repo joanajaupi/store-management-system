@@ -17,7 +17,7 @@ It allows three levels of access: cashier, manager, and admin. The system is imp
 
 ### Setup 
 1. clone this repository to your local machine
-2. load the project into your IDE
+2. load the project into your IDE (under ``/jjaupi20`` directory)
 3. (in INTELLIJ) ``File >> Project Structure >> Libraries >> + >> Java >> locate where is the javafx-sdk/lib directory``
 4. edit run configuration to add VM options ``Run >> Edit Configuration`` (under modify options >> add VM options >> add ``--module-path "\path\to\javafx-sdk-20\lib" --add-modules javafx.controls,javafx.fxml``
 
