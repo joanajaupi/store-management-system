@@ -1,6 +1,7 @@
 # Store Management System 
 
-This project is a store management system designed for a CD store. It allows three levels of access: cashier, manager, and admin. The system is implemented using object-oriented programming (OOP) principles with Java as the programming language, and the graphical user interface (GUI) is built using JavaFX.
+This project is a store management system designed for a CD store. It is developed as a project for CEN 215 - Object oriented programming course.
+It allows three levels of access: cashier, manager, and admin. The system is implemented using object-oriented programming (OOP) principles with Java as the programming language, and the graphical user interface (GUI) is built using JavaFX.
 
 ### Features
 
